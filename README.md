@@ -27,13 +27,9 @@ python Tbomb.py
 
 ## Contact :
 For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="https://facebook.com/ToxicNoobOfficial">Facebook Page</a>
-<li> Via <a href="mailto: ContactWithToxicNoob@gmail.com">Email</a>
+<li> Via <a href="https://facebook.com/tawsif0130">Facebook Page</a>
+<li> Via <a href="...">Email</a>
 
 
 # Screenshot:
 <img src="https://c.top4top.io/p_23185bxls0.jpg" alt="ToxicBomber">
-
-### Visitors :
-
-![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
