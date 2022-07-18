@@ -25,10 +25,6 @@ python Tbomb.py
 <li>ToxicNoob Will Never Be Responsible For Any Misuse</li>
 <li>Use It At Your Own Risk</li>
 
-## Contact :
-For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="https://facebook.com/tawsif0130">Facebook Page</a>
-<li> Via <a href="...">Email</a>
 
 
 # Screenshot:
